@@ -1,5 +1,4 @@
-fastapi
-uvicorn
+fastapi[standard]
 python-multipart
 tensorflow
 numpy
